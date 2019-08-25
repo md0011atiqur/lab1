@@ -1,0 +1,27 @@
+task done in lab1
+
+git config user.name     //checked login username
+git config user.email    // check login email
+git config --global --unset-all user.name     //logout username
+git config --global --unset-all user.email    //logout email
+
+git config --global user.name "Md Atiqur Rahman"     //login username
+git config --global user.email "mdatiqurrahman90@gmail.com"     //login email
+
+mkdir project1 //create a folder
+pwd  //check present directory
+touch lab1.txt //create a file
+
+git init  //git initialized
+git add . //file moved from working area/stage to staging area
+git commit -m "steps done in lab1"
+
+git status //check file status
+
+
+End Lab1
+
+
+
+
+
